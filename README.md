@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS's various products such as EC2, RDS, and S3**
 
-- 👨‍💻 All of my projects are available at [http://kai-jenkins.com/](http://kai-jenkins.com/)
+- 👨‍💻 All of my projects are available at [http://kai-jenkins.com/](https://kai-jenkins.netlify.app/)
 
 - 📫 How to reach me **kaijenkins@me.com**
 
