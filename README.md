@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai Jenkins</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Associate Software Development Engineer</h3>
 
 - 🔭 I’m currently working on **my personal website. I am looking to speedup load times, make it more minimalistic, and easier to use.**
 
