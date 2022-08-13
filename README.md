@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kai Jenkins</h1>
 <h3 align="center">Associate Software Development Engineer</h3>
 
-- 🔭 I’m currently working on **my personal website. I am looking to speedup load times, make it more minimalistic, and easier to use.**
+- 🔭 I’m currently working on **Multiple Angular projects to ehance my overall knowledge of Angular.**
 
 - 🌱 I’m currently learning **Angular, AWS and CI/CD Enterprise implementation**
 
