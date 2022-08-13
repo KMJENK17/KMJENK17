@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my personal website. I am looking to speedup load times, make it more minimalistic, and easier to use.**
 
-- 🌱 I’m currently learning **AWS's various products such as EC2, RDS, and S3**
+- 🌱 I’m currently learning **Angular, AWS and CI/CD Enterprise implementation**
 
-- 👨‍💻 All of my projects are available at [https://kai-jenkins.netlify.app/](https://kai-jenkins.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kai-jenkins.netlify.app/](https://kai-jenkins.netlify.app/) and my Github repo's!
 
 - 📫 How to reach me **kaijenkins@me.com**
 
