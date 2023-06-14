@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kai Jenkins</h1>
 <h3 align="center">Associate Software Development Engineer</h3>
 
-- 🔭 I’m currently working on **Multiple Angular projects to ehance my overall knowledge of Angular.**
+- 🔭 I’m currently working on **Delta Air Lines trips UI**
 
-- 🌱 I’m currently learning **Angular, AWS and CI/CD Enterprise implementation**
+- 🌱 I’m currently learning **Angular and AWS**
 
 - 👨‍💻 All of my projects are available at [https://kai-jenkins.netlify.app/](https://kai-jenkins.netlify.app/) and my Github repo's!
 
