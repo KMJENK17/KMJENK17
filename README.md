@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular and AWS**
 
-- 👨‍💻 All of my projects are available at [https://kai-jenkins.netlify.app/](https://kai-jenkins.netlify.app/) and my Github repo's!
+- 👨‍💻 All of my projects are available at [https://kai-jenkins.netlify.app/](https://kai-jenkins.netlify.app/)
 
 - 📫 How to reach me **kaijenkins@me.com**
 
