@@ -43,10 +43,10 @@
 
 <h3 align="left">Code Sites</h3>
 
-[![][Codewars]][codewars]
+[![][Codewars]][codewarslink]
 
 [Codewars]:https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey
-[codewarslink]: https://www.codewars.com/users/KJENK17
+[codewarslink]:https://www.codewars.com/users/KJENK17
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmjenk17&show_icons=true&locale=en&layout=compact" alt="kmjenk17" /></p>
