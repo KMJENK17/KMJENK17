@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai Jenkins</h1>
-<h3 align="center">Associate Software Development Engineer</h3>
+<h3 align="center">Associate Software Development Engineer (Front-end)</h3>
 
 - 🔭 I’m currently working on **Delta Air Lines MyTrips UI**
 
